@@ -2224,6 +2224,11 @@ h6 {
   z-index: 4;
 }
 
+.brand-logo {
+  z-index: 4;
+  width: 200px;
+}
+
 .brand.w--current {
   z-index: 4;
   position: relative;
@@ -2351,6 +2356,10 @@ h6 {
 
 .image {
   width: 100px;
+}
+
+.image-logo {
+  width: 200px;
 }
 
 .container {
